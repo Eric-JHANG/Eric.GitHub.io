@@ -1,0 +1,67 @@
+﻿
+@font-face {
+    font-family: 'Nexus Sans Pro';
+    src: url("NexusSansPro-2564336ee49392e1678c97d99d6f9f17.eot");
+    src: local("../fonts/Nexus Sans Pro"),local("NexusSansPro"),url("NexusSansPro-2564336ee49392e1678c97d99d6f9f17.eot?#iefix") format("embedded-opentype"),url("NexusSansPro-7866073cc0c66a6a24d27c1d4c6f6ecd.woff2") format("woff2"),url("NexusSansPro-6f350eea6ee7d3869a22ff34aaeb4f0a.woff") format("woff"),url("NexusSansPro-28a6a45f838742b6a5f78966f5595b22.svg#NexusSansPro") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Nexus Sans Pro';
+    src: url("NexusSansPro-Bold-6bebf9451c6ee5b2c050cc918656f68e.eot");
+    src: local("../fonts/Nexus Sans Pro Bold"),local("NexusSansPro-Bold"),url("NexusSansPro-Bold-6bebf9451c6ee5b2c050cc918656f68e.eot?#iefix") format("embedded-opentype"),url("NexusSansPro-Bold-c16e2e825446509f08b8b2d5ecc84cb1.woff2") format("woff2"),url("NexusSansPro-Bold-5daa6b55f175970cc91e3fe0a853f8be.woff") format("woff"),url("NexusSansPro-Bold-b28a0363c8a093cf705146ffc2ba0a07.svg#NexusSansPro-Bold") format("svg");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Nexus Serif Pro';
+    src: url("NexusSerifPro-0a36632902eb1e732e17dd90c57214c6.eot");
+    src: local("../fonts/Nexus Serif Pro"),local("NexusSerifPro"),url("NexusSerifPro-0a36632902eb1e732e17dd90c57214c6.eot?#iefix") format("embedded-opentype"),url("NexusSerifPro-4c7ac6de863e70a6493fec1ba5326547.woff2") format("woff2"),url("NexusSerifPro-35ba76385057406d34fdf8f8588ab595.woff") format("woff"),url("NexusSerifPro-652614aa0d24b98027c91b7c0f04b6cd.svg#NexusSerifPro") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Nexus Serif Pro';
+    src: url("NexusSerifPro-Bold-c80afd267817143e443c91157b2bdd84.eot");
+    src: local("../fonts/Nexus Serif Pro Bold"),local("NexusSerifPro-Bold"),url("NexusSerifPro-Bold-c80afd267817143e443c91157b2bdd84.eot?#iefix") format("embedded-opentype"),url("NexusSerifPro-Bold-ad2f65fd2c9d9cc8f2566449fbb158d6.woff2") format("woff2"),url("NexusSerifPro-Bold-724951f7de83027368c37b848b5e13f9.woff") format("woff"),url("NexusSerifPro-Bold-d563c56def5bbd73b8b4f7516c18dc91.svg#NexusSerifPro-Bold") format("svg");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Nexus Serif Pro';
+    src: url("NexusSerifPro-Italic-c630b155443d1e4aa8312df8e47bdf52.eot");
+    src: local("../fonts/Nexus Serif Pro Italic"),local("NexusSerifPro-Italic"),url("NexusSerifPro-Italic-c630b155443d1e4aa8312df8e47bdf52.eot?#iefix") format("embedded-opentype"),url("NexusSerifPro-Italic-92eeb34fee27b3dc677ee15e1849d29e.woff2") format("woff2"),url("NexusSerifPro-Italic-251efa7e2ee1afde582528e2cc06d813.woff") format("woff"),url("NexusSerifPro-Italic-5e74f2c55c8c8af501d3d2c94e132b1c.svg#NexusSerifPro-Italic") format("svg");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap
+}
+
+@font-face {
+    font-family: "Pure";
+    src: url("Pure-0c7efadd923260b2e2dc1e42e078e76c.eot");
+    src: url("Pure-0c7efadd923260b2e2dc1e42e078e76c.eot?#iefix") format("embedded-opentype"),url("Pure-bf75a7766381099b1c632f1ba6be4499.woff") format("woff"),url("Pure-3fc9a452bc6c4f94756a6da768e22f5e.ttf") format("truetype"),url("Pure-8af3a9a239af86c6708c4320fde7a729.svg#pure") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+[data-icon]:before,[class^="icon-"]:before,[class*=" icon-"]:before,.collaboration-map-home-icon:before,ul.arrow-list li:before,.selectize-control.single .selectize-input:before,.rendering_impact_short span.fileObject span:after,.rendering_dataset_short span.fileObject:after,.rendering_documentsattachedportalrendererng .files:before,.rendering_documentsattachedportalrendererng .links:before,.rendering_publicationattacheddocumentsportalrenderer .open-access:before,.rendering_publicationattacheddocumentsportalrenderer .links:before,.rendering_publicationattacheddocumentsportalrenderer .files:before,.rendering_researchoutput_publicationaccessrenderer ul.dois li:before,.rendering_publication_publicationaccessrenderer ul.dois li:before,.rendering_documentlinkextensionaccessportal ul.dois li:before,.rendering_dataset_detailportallinks ul.dois li:before,.rendering_publicationotherfilesandlinksrenderer ul.dois li:before,.rendering_researchoutput_publicationaccessrenderer ul.documents li:before,.rendering_publication_publicationaccessrenderer ul.documents li:before,.rendering_documentlinkextensionaccessportal ul.documents li:before,.rendering_dataset_detailportallinks ul.documents li:before,.rendering_publicationotherfilesandlinksrenderer ul.documents li:before,.rendering_researchoutput_publicationaccessrenderer ul.links li:before,.rendering_publication_publicationaccessrenderer ul.links li:before,.rendering_documentlinkextensionaccessportal ul.links li:before,.rendering_dataset_detailportallinks ul.links li:before,.rendering_publicationotherfilesandlinksrenderer ul.links li:before,ul.relations.handlenet li:before,.btn.with-arrow span:after,.with-arrow.btn-primary span:after,.btn.with-arrow-up span:after,.with-arrow-up.btn-primary span:after,.btn.with-arrow-down span:after,.with-arrow-down.btn-primary span:after,.sub-logo-banner.improvedLayout .container .slick-next:before,.sub-logo-banner.improvedLayout .container .slick-prev:before,.relations.documents li.embargoed:before,.rendering_publicationsfxportalrenderer span.globe:before,.rendering_contributiontojournal_publicationhandlenetportalrenderer ul li:before,.doi-link:before,.rendering_studentthesis_documentextensionportal strong:before,.rendering_studentthesis_linkextensionportal strong:before,.rendering_studentthesis_studentthesesdocumentlinkrendererportal ul.documents:before,.rendering_studentthesis_studentthesesdocumentlinkrendererportal ul.links:before,.rendering_studentthesis_short .attachments:after,.slick-next:before,.slick-prev:before{font-family:"Pure" !important;font-style:normal !important;font-weight:normal !important;font-variant:normal !important;text-transform:none !important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;display:inline-block}i.icon{vertical-align:middle}[data-icon]:before{content:attr(data-icon)}.icon-activities:before,.icon-activity:before,.icon-Activity:before,.icon-Activities:before{content:"a"}.icon-clippings:before,.icon-clipping:before,.icon-Clipping:before,.icon-Press:before{content:"b"}.icon-prizes:before,.icon-prize:before,.icon-Prize:before,.icon-Prizes:before{content:"¤"}.icon-courses:before,.icon-course:before,.icon-Course:before,.icon-Courses:before{content:"#"}.icon-conferenceseries:before{content:"c"}.icon-consultancy:before{content:"d"}.icon-equipment:before,.icon-equipments:before,.icon-Equipment:before{content:"f"}.icon-event:before{content:"g"}.icon-externalorganisation:before{content:"h"}.icon-externalperson:before{content:"i"}.icon-funding:before{content:"j"}.icon-fundingopportunity:before{content:"k"}.icon-journals:before,.icon-journal:before{content:"l"}.icon-education:before{content:"m"}.icon-user:before{content:"n"}.icon-publisher:before{content:"o"}.slick-next{content:"e900" !important}.icon-publications:before,.icon-publication:before,.icon-ResearchOutput:before,.icon-Research.Output:before{content:"p"}.icon-projects:before,.icon-project:before,.icon-Project:before,.icon-Projects:before{content:"q"}.icon-persons:before,.icon-person:before{content:"r"}.icon-organisations:before,.icon-organisation:before{content:"s"}.icon-impacts:before,.icon-impact:before,.icon-Impact:before,.icon-Impacts:before{content:"/"}.icon-check:before{content:"t"}.icon-facebook-circled:before{content:"u"}.icon-google:before{content:"\e900"}.icon-researchgate:before{content:"\e901"}.icon-gplus-circled:before{content:"v"}.icon-twitter-circled:before{content:"w"}.icon-linkedin-circled:before{content:"x"}.icon-info-circled:before{content:"y"}.icon-info:before{content:"z"}.icon-location-pin:before{content:"A"}.icon-magnifying-glass:before{content:"B"}.icon-dots:before{content:"\46"}.icon-controls:before{content:"G"}.icon-attach:before{content:"H"}.icon-fingerprint:before{content:"I"}.icon-network:before{content:"="}.icon-network-menu:before{content:"L"}.icon-similar-person:before{content:"?"}.icon-fingerprint-open,.icon-fingerprint-open-mini:before{content:"I"}.icon-down-open-mini:before{content:"K"}.icon-settings-open-mini:before{content:"9"}.icon-settings-open-mini{content:"9"}.icon-down-open:before{content:"M"}.icon-funnel:before{content:"N"}.icon-cancel:before{content:"O"}.icon-cancel-circled:before{content:"P"}.icon-right-open-mini:before{content:"e"}.icon-right-open:before{content:"C"}.icon-list:before{content:"D"}.icon-link:before{content:"="}.icon-globe:before{content:"Q"}.icon-plus-squared:before{content:"R"}.icon-minus-squared:before{content:"S"}.icon-lifebuoy:before{content:"T"}.icon-rss:before{content:"U"}.icon-dataset:before,.icon-datasets:before,.icon-DataSet:before,.icon-Datasets:before{content:"V"}.icon-studentTheses:before,.icon-studentTheses:before,.icon-StudentThesis:before,.icon-Student:before,.icon-studentProjects:before{content:"%"}.icon-concept:before,.icon-concepts:before{content:"W"}.icon-plus:before{content:"X"}.icon-plus-circled:before{content:"Y"}.icon-up-open:before{content:"Z"}.icon-alert:before{content:"0"}.icon-mendeley:before{content:"1"}.icon-mendeley-circled:before{content:"2"}.icon-orcid-circled:before{content:"3"}.icon-open-access:before{content:"J"}.icon-institution:before{content:"\d8"}
+.social-media-list {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.social-media-list li {
+    display: inline-block
+}
+
+.social-media-list li a.twitter {
+    margin-right: 5px
+}
